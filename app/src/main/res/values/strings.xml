@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_article_image">News Article Image</string>
+    <string name="source">Source</string>
+    <string name="retry">Retry</string>
+    <string name="error_icon">Error</string>
+    <string name="article_not_found">Article not found</string>
+</resources>
