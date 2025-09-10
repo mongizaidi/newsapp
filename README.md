@@ -11,10 +11,6 @@ A Simple Android application that displays the latest news headlines using the N
 - 📱 **Material Design** - Clean, modern UI following Google's Material Design guidelines
 - 🔒 **Secure API Integration** - API keys stored securely using BuildConfig
 
-## Screenshots
-
-*Screenshots will be added here once the app is built and tested*
-
 ## Architecture
 
 This project follows the **MVVM (Model-View-ViewModel)** architecture pattern with the following key components:
