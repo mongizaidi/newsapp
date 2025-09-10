@@ -95,7 +95,7 @@ The app integrates with [NewsAPI](https://newsapi.org/) to fetch top headlines. 
 
 2. **Get NewsAPI Key**
    - Visit [NewsAPI](https://newsapi.org/) and register for a free API key
-   - Add your API key to `local.properties`:
+   - Add your API key to `gradle.properties`:
    ```properties
    NEWS_API_KEY=your_api_key_here
    ```
